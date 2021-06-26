@@ -1,0 +1,11 @@
+html{
+    box-sizing: border-box;
+}
+
+
+
+
+#magnifying_glass,
+#microphone {
+    height: 24px;
+}
